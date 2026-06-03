@@ -1,1 +1,3 @@
 Hello Git
+Learning GitHub 
+This is my second change
